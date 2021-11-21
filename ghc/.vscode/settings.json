@@ -1,0 +1,7 @@
+{
+    "editor.tabSize": 6,
+    "editor.cursorStyle": "block-outline",
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 50,
+    "editor.accessibilitySupport": "on"
+}

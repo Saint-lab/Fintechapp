@@ -1,0 +1,4 @@
+Dial *312#
+Press 3 to get the Trybe offers.
+Press 1 to subscribe for the N25-500MB.
+It's Valid for 5 hours (12am-5am)
