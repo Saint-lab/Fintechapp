@@ -9,3 +9,4 @@ with the company.
 
 It was develop with core php as Backend, Javascript,
 Html5, css, saas as Frontend.
+The sql file is already included here, so it makes it fast to integrate to your code
